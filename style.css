@@ -45,12 +45,17 @@
 .equal {
     height: 120px;
 }
+
 .zero {
     width: 130px;
 }
 
 .equal:hover {
-    background: rgb(128, 4, 0);
+    background: green;
+    color: white;
+}
+
+footer{
     color: white;
 }
 
